@@ -1,0 +1,7 @@
+aws_access_key      = "<INSERT-ACCESS-KEY>"
+aws_secret_key      = "<INSERT-SECRET-KEY>"
+key_name            = "<INSERT-SSH-KEY-NAME>"
+private_key_path    = "<INSERT-PATH-TO-SSH-KEY>"
+bucket_name_prefix = "<INSERT-NAME-OF-THE-BUCKET-TO-BE-CREATED>"
+environment_tag = "<INSERT-SOME-TAG-YOU-WANT-TO-USE>"
+billing_code_tag = "<INSERT-SOME-TAG-YOU-WANT-TO-USE>"
